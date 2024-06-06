@@ -33,6 +33,15 @@ Welcome to the Free Fake APIs Repository! This repository is dedicated to provid
   - **PATCH** `/products/1` - Partially update a product by ID
   - **DELETE** `/products/1` - Delete a product by ID
 
+### FakeAPI Platzi
+**Description:** [FakeAPI Platzi](https://fakeapi.platzi.com/) is a free online REST API for developers provided by Platzi. It offers various endpoints to generate fake data for testing and learning purposes.
+- **Main Page:** [FakeAPI Platzi](https://fakeapi.platzi.com/)
+- **Base URL:** `https://api.escuelajs.co/api/v1/`
+- **Endpoints:**
+  - **GET** `/products` - Get a list of products
+  - **GET** `/categories` - Get a list of categories
+  - **GET** `/users` - Get a list of users
+
 ## Contribution
 If you know any other useful free fake APIs that are not listed here, feel free to contribute by submitting a pull request or opening an issue.
 
